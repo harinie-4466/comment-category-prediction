@@ -2,8 +2,6 @@
 
 A hybrid **NLP + Machine Learning pipeline** for classifying user-generated comments into categories using both textual and structured features.
 
----
-
 ## Overview
 This project focuses on predicting the category of online comments by combining:
 - **Textual features** extracted using TF-IDF
