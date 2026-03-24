@@ -9,7 +9,6 @@ This project focuses on predicting the category of online comments by combining:
 
 The model leverages both sources of information to improve classification performance on real-world discussion data.
 
----
 
 ## Key Features
 - Hybrid modeling: **NLP + tabular data integration**
@@ -30,7 +29,6 @@ The model leverages both sources of information to improve classification perfor
   - XGBoost  
 - Ensemble prediction using boosting models
 
----
 
 ## Methodology
 
@@ -57,14 +55,12 @@ The model leverages both sources of information to improve classification perfor
 - Combined predictions from LightGBM and XGBoost
 - Improved robustness and generalization
 
----
 
 ## Results
 - Achieved **~90% validation accuracy**
 - Boosting models (LightGBM, XGBoost) performed best
 - Hybrid feature approach significantly improved results over text-only models
 
----
 
 ## Tech Stack
 - **Language:** Python  
@@ -75,7 +71,6 @@ The model leverages both sources of information to improve classification perfor
   - XGBoost  
   - SciPy  
 
----
 
 ## Dataset
 The dataset contains:
